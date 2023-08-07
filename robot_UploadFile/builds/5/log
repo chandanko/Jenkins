@@ -1,0 +1,9 @@
+Started by user [8mha:////4Pj0ydaxVUS2FWHlmP4k2zqlnio7sihRlt5YyKEWR/J9AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL95IzEvJTEPAA8DPSGwgAAAA==[0mChandan K O
+Running as SYSTEM
+Building in workspace /Users/chandanko/.jenkins/workspace/robot_UploadFile
+[robot_UploadFile] $ /bin/sh -xe /var/folders/p0/rr_3l_m90n349lnzkg15srdh0000gn/T/jenkins13426583439369621850.sh
++ cd /Users/chandanko/PycharmProjects/Robot_POM
++ robot upload_file.robot
+/var/folders/p0/rr_3l_m90n349lnzkg15srdh0000gn/T/jenkins13426583439369621850.sh: line 3: robot: command not found
+Build step 'Execute shell' marked build as failure
+Finished: FAILURE

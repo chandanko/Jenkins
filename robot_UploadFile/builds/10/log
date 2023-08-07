@@ -1,0 +1,18 @@
+Started by user [8mha:////4Pj0ydaxVUS2FWHlmP4k2zqlnio7sihRlt5YyKEWR/J9AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZe/dLi1CL95IzEvJTEPAA8DPSGwgAAAA==[0mChandan K O
+Running as SYSTEM
+Building in workspace /Users/chandanko/.jenkins/workspace/robot_UploadFile
+[robot_UploadFile] $ /bin/sh -xe /var/folders/p0/rr_3l_m90n349lnzkg15srdh0000gn/T/jenkins12910932404751530124.sh
++ cd /Users/chandanko/PycharmProjects/Robot_POM
++ robot upload_file.robot
+==============================================================================
+Upload File :: Script to upload robot file                                    
+==============================================================================
+Upload a file                                                         | PASS |
+------------------------------------------------------------------------------
+Upload File :: Script to upload robot file                            | PASS |
+1 test, 1 passed, 0 failed
+==============================================================================
+Output:  /Users/chandanko/PycharmProjects/Robot_POM/output.xml
+Log:     /Users/chandanko/PycharmProjects/Robot_POM/log.html
+Report:  /Users/chandanko/PycharmProjects/Robot_POM/report.html
+Finished: SUCCESS
