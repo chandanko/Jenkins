@@ -8,7 +8,7 @@
   
   -> Run files using followed commands in terminal
   
-           python extaract_date.py.py 
+           python extaract_date.py
 
 # To run robot_UploadFile
 
